@@ -1,0 +1,107 @@
+PolitiFact | Madison is half-right on claim about GOP’s cash bail bill
+
+Our only agenda is to publish the truth so you can be an informed participant in democracy.
+We need your help.
+
+
+More Info
+
+
+In this Feb. 18, 2020, file photo prisoners stand outside of the federal correctional institution in Englewood, Colo. (AP)
+
+If Wisconsin voters OK a cash bail amendment this April, judges would be able to take into account a wider variety of conditions for setting bail for certain defendants. 
+That includes protecting the community from "serious harm" and, if the defendant has been accused of a violent crime, weighing "the totality of the circumstances" when deciding to set a cash bail amount. Under current law, a judge can only consider what is needed to ensure the defendant appears in court. 
+Broadening the standard for protecting the community and adding more crimes to a list of violent crimes is likely to result in more people being detained and subject to bail, experts say.
+But Madison’s point about witnesses misleads, making an example out of "spectating" violence that is, in itself, a crime in current state statute.
+Cash bail is a hot topic in Wisconsin. 
+Spurred by the 2021 tragedy at the Waukesha Christmas Parade, where a man free on $1,000 bail in a felony domestic case drove his SUV through the crowd and killed six people, lawmakers have called for action to reform the state’s bail system. 
+Now, voters will see it on their ballots for the April 4, 2023 election. 
+State lawmakers have pushed forward a constitutional amendment that would allow Wisconsin judges to consider a broader range of factors when setting bail. Currently, monetary bail can only be set based on what is needed to assure a person returns to court, not the potential danger to the public. This amendment would allow judges to consider "the totality of the circumstances" when setting bail if the defendant is accused of a violent crime, including the defendant’s past criminal record and the need to protect the public. 
+The measure garnered some bipartisan support when it passed both chambers of the Legislature, though some Democrats have been critical, saying it will create more inequities within the criminal justice system by allowing wealthier defendants to get out of jail more easily than others.
+That includes state Rep. Darrin Madison, a freshman Assembly member representing the Milwaukee suburbs who was one of two democratic socialists elected to the statehouse last year.  
+In a Feb. 8, 2023 news release, Madison denounced the bill that would take effect if voters pass the amendment in April, the Senate version of which was authored by Sen. Van Wanggaard, R-Racine.
+Madison wrote: "While (Wanggaard) testified that ‘this is very narrowly focused on violent crime,’ on the contrary, a large quantity of people who are accused of crimes, including anyone who even witnesses certain crimes, could now be detained and subject to bail."
+Worth a note: Wanggaard’s office clarified that the senator’s comment about the narrow focus occurred in testimony on the amendment, not the bill, though the two are tightly intertwined. 
+In his testimony about the bill, here’s what Wanggaard said: "For the definition of ‘Violent Crime’ we consolidated the three existing ‘violent crime’ statutes into a single definition. We then looked at the rest of our criminal statutes and added several crimes which are not currently defined as violent in statute, but certainly contain violent elements or crimes where violence is potentially imminent." 
+In other words, the provision will be narrowly focused on crimes defined as violent, not targeted at misdemeanors or other lesser crimes – but the bill does broaden the definition of a violent crime. 
+So, is Madison right? Will this bill expand who can be detained and subject to bail, even including witnesses to certain crimes?
+Let’s dive in – it’s complicated. 
+Currently, a defendant’s eligibility for bail is based on a few conditions that a judge weighs, one of which is designed to protect the community from "serious bodily harm." 
+The bill would broaden that to protecting the community from "serious harm," which is defined as: 
+Personal physical pain or injury, illness, any impairment of physical condition, or death, including mental anguish or emotional harm attendant to the personal physical pain or injury, illness, or death
+Damage to property over $2,500 in value 
+Economic loss over $2,500 in value
+As the amendment lays out, the bill would also allow judges to consider new factors in setting the cash bail amount of a defendant – and if the defendant is accused of a violent crime, the judge could consider "the totality of the circumstances." 
+More than 100 offenses fall under the definition of violent crime by the bill. 
+By broadening the conditions a judge can consider when deciding to release or detain a defendant, and by widening the range of offenses for which a judge can set monetary bail, it would make sense that more people could be detained and subject to bail – specifically cash bail. 
+When asked for evidence of the claim, Madison’s office provided testimony from the state public defender’s office on the amendment. 
+Using "serious harm" rather than "serious bodily harm" makes it likely that "far more people will be detained pretrial than under our current standards," the testimony reads. 
+"We are going from a system where a judge should only place conditions of release on a defendant if they thought it was necessary to prevent serious physical injury, to one where a judge can do so to prevent not just any physical injury but to prevent hurt feelings or property damage," said John P. Gross, director of the Public Defender Project at the University of Wisconsin Law School. 
+Gross added that because "mental anguish" and "emotional harm" – which would both fall under the description of serious harm – aren’t defined, it could lead to broad interpretations, like a judge imposing cash bail on a defendant because the victim said they couldn’t sleep at night if the defendant was released.
+So on this point, Madison is correct. 
+This part of the claim is where Madison veers off track.
+His office pointed to a specific statute on the list of violent crimes for which, under the bill, a judge could consider "the totality of the circumstances" when setting a cash bail amount: instigating fights between animals. 
+A subsection of that statute reads, "No person may intentionally be a spectator at a cockfight, dog fight, bullfight or other fight between the same or different kinds of animals or between an animal and a person."
+There are a few issues with what Madison claims here. First, by phrasing it as he did – "anyone who even witnesses certain crimes" – it gives the impression that the person in question only watched a crime occur. 
+But intentionally watching an animal fight is a crime in itself. 
+Is it violent? Wanggaard’s office said it falls under that broadened definition of a crime where "violence is potentially imminent." Dogfighting and animal abuse have been linked to other criminal activity, such as child abuse and domestic violence. And the Humane Society notes that because such fights aren’t widely publicized, spectators "do not merely happen upon a fight, they seek it out." 
+While there’s surely room for disagreement on whether that specific act constitutes a violent crime, Madison’s statement misleads by implying that innocent bystanders could be subject to bail under this bill. Gross also pointed out that this section of the criminal code would not be likely to result in a large number of people being detained because it’s rare for people to be charged. 
+Even setting that issue aside, the claim insinuates that this bill would be breaking new ground by now subjecting "witnesses" to detainment and bail. 
+That’s also wrong, because this can already happen. Under Wisconsin state statute, judges can set bail on material witnesses in felony cases who might be unavailable by subpoena at a later date, according to Gross. 
+Madison sought to dispute Wanggaard’s assertion that this bill would narrowly focus on violent crime, saying, "On the contrary, a large quantity of people who are accused of crimes, including anyone who even witnesses certain crimes, could now be detained and subject to bail."
+He’s right that widening the factors a judge can use to set cash bail for a defendant could result in more people being subject to bail – and in pointing out that the bill would also widen "violent crimes" to include crimes where violence has not yet occurred but is "potentially imminent." 
+But his comment about people who witness certain crimes is misleading – first because witnesses can already be subject to bail, and second because it calls on an obscure section of the criminal code in which "intentionally" spectating is, in itself, a crime. 
+We rate a claim Half True when it is partially accurate but leaves out important details or takes things out of context. 
+That fits here. 
+ 
+PBS Wisconsin, "Wisconsin Assembly puts bail constitutional amendment on April 2023 ballot," Jan. 19, 2023
+Milwaukee Journal Sentinel, "Wisconsin Republican lawmakers are fast-tracking a constitutional amendment on cash bail. Here's what the measure would do," Feb. 9, 2023
+Associated Press, "2 freshmen revive Wisconsin Legislature’s socialist caucus," Jan. 8, 2023
+Press release from Reps. Darrin Madison and Ryan Clancy, Feb. 8, 2023
+Email exchange with Sen. Van Wanggaard’s office
+Wisconsin Assembly Bill 54/Senate Bill 75, accessed March 1, 2023
+Email exchange with John P. Gross, director of the Public Defender Project at the University of Wisconsin Law School
+Wisconsin State Public Defender’s Office, testimony on constitutional amendment, Jan. 10, 2023
+Milwaukee Journal Sentinel, "12 Milwaukee residents charged in dogfighting investigation," April 3, 2014
+Humane Society of the United States, "The facts about dogfighting," accessed March 15, 2023
+Wisconsin Statute Chapter 969, bail and other conditions of release, accessed March 13, 2023
+
+
+The Principles of the Truth-O-Meter
+
+
+
+In a world of wild talk and fake news, help us stand up for the facts.
+
+
+
+Sign me up
+
+
+
+
+
+Sign me up
+
+
+
+
+District of Columbia
+
+
+
+1800 I Street NW
+
+Washington, DC
+20006
+
+
+
+Florida
+
+
+801 3rd St. S
+
+St. Petersburg, FL
+33701
+727-821-9494

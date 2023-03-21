@@ -1,0 +1,86 @@
+PolitiFact | Meme uses faulty math to claim that it takes 300 gallons of jet fuel to de-ice wind turbines
+
+Our only agenda is to publish the truth so you can be an informed participant in democracy.
+We need your help.
+
+
+More Info
+
+Are excessive amounts of fossil fuels being burned to de-ice wind turbines and thus negating clean energy efforts? 
+That’s what a recent Facebook post purports as it criticizes efforts to combat climate change as hypocritical. 
+The Feb. 28 post shows a photo of a helicopter spraying a wind turbine with liquid. 
+Superimposed text says: "Don’t mind us. We’re just burning 300 gallons of jet fuel to de ice this clean energy wind turbine … that needs 80 gallons of synthetic oil to operate. Which takes 12,000 gallons of crude to make in the first place."
+The image’s caption said "the hypocrisy of #GreenEnergy & the #ClimateChange cult is truly astounding."
+The post doesn’t include a source for its fuel and oil amounts. 
+The post, found on a satirical page called "The Common Sense Conservative," was flagged as part of Facebook’s efforts to combat false news and misinformation on its News Feed. (Read more about our partnership with Meta, which owns Facebook and Instagram)
+PolitiFact in 2021 rated a similar post False.
+That post was part of a misleading narrative that sought to blame crippling power outages in Texas during a winter storm on renewable energy sources and policies. The post at the time contained no mention of the amount of fuel or oil used as part of the de-icing. 
+The photo in the Feb. 28 post was taken in 2015 by Alpine Helicopter, a Swedish company, and shows an aircraft spraying a turbine with hot water at the Uljabuouda wind farm near Arjeplog, Sweden.
+An Alpine Helicopter spokesperson told The Associated Press in 2021 that the company used only hot water to melt the ice that forms on a wind turbine’s blades.
+A cover photo for a 2016 report by Alpine Helicopter about "airborne de-icing solutions for wind turbines" used the same photo as the Facebook post. The hot water method is for turbines that lack an internal warming system or for when the system is not adequate to de-ice a turbine’s blades, the report said. 
+Alpine Helicopter’s report includes an analysis of how much fuel would be needed by a helicopter to de-ice all 10 turbines at the Uljabuouda wind farm.
+The Facebook post claimed the helicopter burns 300 gallons of fuel to de-ice one wind turbine. Alpine’s 2016 report found that its helicopter uses about 640 gallons of fuel to fly the 310-mile round trip distance from Boden, Sweden, to the wind farm and to de-ice all 10 turbines over three days. 
+Using 300 gallons of fuel just to de-ice a single wind turbine as the post claims is an exaggeration.
+PolitiFact found no credible source for the Facebook post’s other claim that the wind turbine uses 80 gallons of synthetic oil derived from 12,000 gallons of crude oil to operate.
+Wind turbines use oil to lubricate their moving parts — typically synthetic oil because its viscosity can withstand temperature extremes longer than natural mineral oil. However, the amount needed varies greatly depending on the turbine’s design — from 20 to 200 gallons, according to Climate Feedback, a website that fact-checks statements about climate change. 
+We found the specific model of the turbines used at the Uljabuouda wind farm but no information on how much oil it needs for lubrication. WinWinD, the Finland-based manufacturer of the turbines, went out of business in 2012. 
+The claim that 12,000 gallons of crude oil are needed to make 80 gallons of synthetic oil seems to have no basis.  
+The base material of synthetic oil is typically a form of crude oil distilled to remove certain compounds, but the amount of distilled oil used varies among manufacturers. 
+A refinery can turn a 42-gallon barrel of unrefined crude oil into 11 to 13 gallons of distilled crude oil. The rest of the barrel gets refined into gasoline, jet fuel and other petroleum-based products, the U.S. Energy Information Administration reported.
+Even if the turbine used entirely distilled crude as a lubricant, the amount of unrefined crude that would have to be processed wouldn't be close to 12,000 gallons.
+A Facebook post shows a helicopter spraying down a wind turbine with text reading, "We’re just burning 300 gallons of jet fuel to de-ice this clean energy wind turbine … that needs 80 gallons of synthetic oil to operate."
+The image originates from a Swedish helicopter company showing how it de-ices turbines at a wind farm in Uljabuouda, Sweden. A company report said it would take about 640 gallons of fuel to fly a helicopter from its base to the wind farm, de-ice all 10 turbines at the farm and fly back to its home base — not 300 gallons for a single turbine as the post claims. 
+The math also doesn’t work out for the post’s claim that it takes 12,000 gallons of crude oil to make the 80 gallons of synthetic oil used in a turbine. 
+A key component of synthetic oil is distilled crude oil. A single, 42-gallon barrel of unrefined crude oil can be processed to produce about 11 to 13 gallons of distillate. Even if the oil used in a turbine was all distillate, the amount of unrefined crude needed would be far fewer than 12,000 gallons. 
+We rate this claim as False.
+Facebook post (archive), Feb. 28, 2023
+PolitiFact, "Fox Nation host’s unsupported claim that helicopters sprayed oil on frozen Texas wind turbines," Feb. 24, 2021
+Politifact, "How Fox News, far-right TV blamed green energy for Texas’ power outages," Feb. 19, 2021
+Associated Press, "Photo does not show a helicopter de-icing a wind turbine in Texas," Feb. 17, 2021
+Energiforsk, "Airborne De-icing solutions for wind turbines," July 2016
+Windpower Engineering and Development, "Choosing the right lubricant for today’s wind turbines," Aug. 16, 2021
+Climate Feedback, "The energy costs of manufacturing wind turbines are recouped in one to six months; turbines are financially profitable over their lifetimes," April 8, 2021
+The Wind Power, WWD-3-90, May 7, 2018
+WinWinD, Frontpage (archive), accessed March 14, 2023
+Car and Driver, "Synthetic Oil: Everything You Need To Know," accessed March 14, 2023
+U.S. Energy Information Administration, "Oil and petroleum products explained," April 19, 2022
+
+
+The Principles of the Truth-O-Meter
+
+
+
+In a world of wild talk and fake news, help us stand up for the facts.
+
+
+
+Sign me up
+
+
+
+
+
+Sign me up
+
+
+
+
+District of Columbia
+
+
+
+1800 I Street NW
+
+Washington, DC
+20006
+
+
+
+Florida
+
+
+801 3rd St. S
+
+St. Petersburg, FL
+33701
+727-821-9494
